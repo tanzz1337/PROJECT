@@ -17,7 +17,7 @@
   "none"
  ],
  "subject_types_supported": [
-   "/etc/passwd"
+   "<h1>HTML CODE INJECTION</h1>"
  ],
  "id_token_signing_alg_values_supported": [
   "file:///etc/passwd"
