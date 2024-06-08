@@ -17,7 +17,7 @@
   "none"
  ],
  "subject_types_supported": [
-  "<script>alert(99)</script>"
+  "<script>alert(document.cookie)</script>"
  ],
  "id_token_signing_alg_values_supported": [
   "RS256"
