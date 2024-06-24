@@ -5,5 +5,5 @@
  "token_endpoint": "https://oauth2.googleapis.com/token",
  "userinfo_endpoint": "https://openidconnect.googleapis.com/v1/userinfo",
  "revocation_endpoint": "https://oauth2.googleapis.com/revoke",
- "jwks_uri": "<script>alert(9)</script>"
+ "jwks_uri": "http://<script>alert(9)</script>"
 }
