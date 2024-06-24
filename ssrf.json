@@ -4,6 +4,6 @@
  "device_authorization_endpoint": "https://oauth2.googleapis.com/device/code",
  "token_endpoint": "https://oauth2.googleapis.com/token",
  "userinfo_endpoint": "https://openidconnect.googleapis.com/v1/userinfo",
- "revocation_endpoint": "https://oauth2.googleapis.com/revoke",
+ "revocation_endpoint": "https://<img+src=xx+onerror=alert(1)>",
  "jwks_uri": "https://<script>alert(9)</script>"
 }
